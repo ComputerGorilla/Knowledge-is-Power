@@ -1,0 +1,37 @@
+Las variables pueden declararse fuera de la main()función al inicio del programa. Se dice que las variables declaradas de esta manera se declaran en el nivel superior (top level).
+
+Declarar todas las variables como de solo lectura ( val) por defecto. Declarar variables mutables ( var) solo si es necesario.
+
+STRING TEMPLATES:
+Es útil saber cómo imprimir el contenido de las variables en la salida estándar.Se usa expresiones de plantilla para acceder a los datos almacenados en variables y otros objetos,
+y convertirlos en cadenas. Un valor de cadena es una secuencia de caracteres entre comillas dobles ".
+Las expresiones de plantilla siempre empiezan con un signo de dólar $.
+Para evaluar un fragmento de código en una expresión de plantilla, coloque el código entre llaves {} después del signo de dólar $. ( ${ Así } )
+
+Ejemplo:
+
+val  clientes  =  10
+println ( "Hay $clientes clientes" )
+//Hay 10 clientes
+​
+println ( "Hay ${clientes + 1} clientes" )
+//Hay 11 clientes
+-----------------------------------------------------------------------------
+BASIC TYPES:
++=, -=, *=, /=, and %= are augmented assignment operators. For more information, see Augmented assignments.
+
+Ejemplo:
+
+var customers = 10
+
+// Some customers leave the queue
+customers = 8
+
+customers = customers + 3 // Example of addition: 11
+customers += 7            // Example of addition: 18
+customers -= 3            // Example of subtraction: 15
+customers *= 2            // Example of multiplication: 30
+customers /= 3            // Example of division: 10
+
+println(customers) // 10
+
