@@ -1,0 +1,13 @@
+Resumen
+
+OnCreate() == Main() : La función onCreate() es el punto de entradade la app para Android y llama a otras funciones para compilar la interfaz de usuario.
+
+La función setContent() dentro de la función onCreate() se usa para definir el diseño a través de funciones de componibilidad.
+
+Para establecer un color de fondo diferente en la presentación, se debe envolver eltexto en una Surface.
+Una Surface es un contenedor que representa una sección de la IU en la que puedes modificar el aspecto, como el borde o el color de fondo.
+
+Se usa un Modifier para aumentar o decorar un elemento componible. 	Padding agrega espacio alrededor del elemento (en este caso, alrededor del texto). Esto se logra con la función Modifier.padding()
+
+Las funciones de componibilidad son como las funciones normales, pero tienen algunas diferencias: los nombres de las funciones llevan mayúscula, debes agregar la anotación @Composable antes de la función y las funciones @Composable no pueden mostrar nada.
+
