@@ -1,0 +1,25 @@
+Resumen
+
+1-2
+
+Jetpack Compose es un kit de herramientas moderno para crear IU de Android.
+ 
+Jetpack Compose simplifica y acelera el desarrollo de IU en Android con menos código, herramientas potentes y APIs intuitivas de Kotlin.
+
+La interfaz de usuario (IU) de una app es lo que ves en la pantalla: texto, imágenes, botones y muchos otros tipos de elementos.
+
+Las funciones de componibilidad son los componentes fundamentales de Compose. Una función de este tipo es aquella que describe alguna parte de tu IU.
+
+La función de componibilidad tiene la anotación @Composable. Esta anotación informa al compilador de Compose que esta función está diseñada para convertir datos en IU.
+
+Los tres elementos de diseño estándar básicos de Compose son Column, Row, y Box. Son funciones Composable y que toman contenido de este tipo, por lo que puedes colocar elementos dentro de ellas. Por ejemplo, cada elemento secundario dentro de un Row se ubicará de forma horizontal uno al lado del otro.
+
+3
+
+La pestaña Resource Manager de Android Studio te permite agregar y organizar tus imágenes y otros recursos.
+
+Un elemento Image componible es un elemento de la IU que muestra imágenes en tu app.
+
+Un elemento Image componible debe tener una descripción de contenido para facilitar la accesibilidad en tu app.
+
+El texto que se muestra al usuario, como el saludo de cumpleaños, debe extraerse en un recurso de strings para que sea más fácil traducir la app a otros idiomas.
