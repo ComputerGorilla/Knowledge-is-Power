@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc5b9a99-0622-4511-a77c-1aa08c0259a2" name="Changes" comment="" />
+    <list default="true" id="d5c95ee4-27e9-4bd1-9858-54688afa7170" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,18 +24,10 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin Class" />
-        <option value="Kotlin Enum" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="30dX5hk1Y7BBoefnMunc803EhqQ" />
+  <component name="ProjectId" id="30v6Wq6EcQwLpF1bdybveBGUQB8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,15 +35,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Android App.app.executor": "Run",
+    "ResourceManagerPrefKey.ResourceType": "DRAWABLE",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "C:/Users/ericr/Documents/dev/Knowledge-is-power"
   }
 }]]></component>
   <component name="RunManager">
@@ -131,11 +121,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cc5b9a99-0622-4511-a77c-1aa08c0259a2" name="Changes" comment="" />
-      <created>1753958242049</created>
+      <changelist id="d5c95ee4-27e9-4bd1-9858-54688afa7170" name="Changes" comment="" />
+      <created>1754495733925</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1753958242049</updated>
+      <updated>1754495733925</updated>
     </task>
     <servers />
   </component>
@@ -144,12 +134,12 @@
       <map>
         <entry key="com.computergorila.diceroller">
           <value>
-            <CheckInfo lastCheckTimestamp="1753959379866" />
+            <CheckInfo lastCheckTimestamp="1754496758411" />
           </value>
         </entry>
         <entry key="com.computergorila.diceroller.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1753959379865" />
+            <CheckInfo lastCheckTimestamp="1754496758411" />
           </value>
         </entry>
       </map>
